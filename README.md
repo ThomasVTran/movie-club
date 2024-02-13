@@ -30,10 +30,10 @@ https://github.com/xWhoKnowz/movie-club.
 ## Usage
 
 Here's the GitHub link where the repo lives:
-[freshTomatoes](https://github.com/xWhoKnowz/movie-club)
+[freshTomatoes](https://github.com/ThomasVTran/movie-club)
 
 Here's the Heroku link where the repo lives:
-[heroku](https://github.com/harleysherman/noteTaker)
+[heroku](https://secure-chamber-09606-709b0e7a0ed2.herokuapp.com/)
 
 ## Credits
 
