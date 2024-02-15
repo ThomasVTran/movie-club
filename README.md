@@ -70,7 +70,7 @@ The features of this project are listed below:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-For any violations of this project, contact me hello@harleysherman.com.
+For any violations of this project, contact me thomasvtran2001@gmail.com.
 
 ## Tests
 
